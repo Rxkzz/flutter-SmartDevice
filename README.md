@@ -1,4 +1,4 @@
-# food_flutter
+# SmartDevices_flutter
 
 A new Flutter project.
 
